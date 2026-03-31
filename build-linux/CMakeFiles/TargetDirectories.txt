@@ -1,0 +1,3 @@
+/work/build-linux/CMakeFiles/nosmoke.dir
+/work/build-linux/CMakeFiles/edit_cache.dir
+/work/build-linux/CMakeFiles/rebuild_cache.dir

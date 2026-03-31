@@ -1,2 +1,2 @@
 # portirovanieIgriDlyaAndrisa
-ничего
+67
